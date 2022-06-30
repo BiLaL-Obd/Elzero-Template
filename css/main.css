@@ -400,6 +400,7 @@ header nav > ul > li .menu .links li a i {
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
   background-color: var(--section-background);
+  overflow-x: hidden;
 }
 .gallery .container {
   display: grid;
@@ -594,6 +595,7 @@ header nav > ul > li .menu .links li a i {
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
   position: relative;
+  overflow-x: hidden;
 }
 .team .container {
   display: grid;
@@ -878,6 +880,7 @@ header nav > ul > li .menu .links li a i {
   padding-top: var(--main-padding-top);
   padding-bottom: var(--main-padding-bottom);
   position: relative;
+  overflow-x: hidden;
 }
 .events .container {
   display: flex;
